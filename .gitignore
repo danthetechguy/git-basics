@@ -1,0 +1,9 @@
+# Exclude these files from the git repo
+wp-content/upgrade/*
+wp-content/uploads/*
+sitemap.*
+wp-config.php
+wp-config-sample.php
+readme.html
+license.txt
+.DS_Store
